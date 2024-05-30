@@ -1,0 +1,44 @@
+#root {
+ 
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.body-container{
+  display: flex;
+  background-color: blue;
+  border-radius: 5px;
+  height: 670px;
+  width: 1000px;
+ }
+ .card-body{
+  border-radius: 10px;
+  width: 1200px;
+ }
+ .feature{
+  display: grid;
+  justify-items: flex-start;
+ }
+
+ .button{
+    margin-left: 20px;
+
+   }
+
+.order{
+  width: 200px;
+  background-color: blue
+}
+
+h3.title {
+  text-shadow: -1px 1px 1;
+  margin-top: 5px;
+  }
+h1.price{
+  margin-top: 5px;
+}
+
+.feature-text{
+  margin-top: 2px;
+}
